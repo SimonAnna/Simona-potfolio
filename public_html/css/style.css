@@ -1,0 +1,49 @@
+body{
+  background-image: url('http://bglabs.evade.netdna-cdn.com/files/dark-wood-panels-1645.jpg');
+    background-color: #cccccc;
+} 
+nav a{
+        color:cadetblue;
+    }
+    #current-link{
+        text-decoration: none;
+    }
+    .uppercase{
+        text-transform:uppercase;
+        font-size:38px;
+        
+    }
+    img{
+        width:250px;
+        height:auto;
+        display:inline-block;
+    }
+    h1{
+       color:cadetblue;
+       border: 3px groove cadetblue;
+       padding: 20px;
+       text-align:center;
+       font-family:monospace;
+    }
+    h2{
+      color:cadetblue;
+        margin-left:25px;
+        display:inline-block;
+    }
+    p{ 
+      color:cadetblue;
+      margin-left:50px;
+      display: inline-block;
+    }
+    h3{
+        color:cadetblue;
+         margin-left:100px;
+         margin-right:0;
+        
+    }
+ 
+    div{
+        display:inline-block;
+    }
+    
+    
